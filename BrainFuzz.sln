@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainFuzz", "BrainFuzz\BrainFuzz.csproj", "{4E2CB0BF-36AD-43EB-AC34-00CD74EEF21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainFK", "BrainFK\BrainFK.csproj", "{DACB82C8-30AC-48E4-9F0D-FEAC213DFFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2CB0BF-36AD-43EB-AC34-00CD74EEF21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2CB0BF-36AD-43EB-AC34-00CD74EEF21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2CB0BF-36AD-43EB-AC34-00CD74EEF21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2CB0BF-36AD-43EB-AC34-00CD74EEF21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACB82C8-30AC-48E4-9F0D-FEAC213DFFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACB82C8-30AC-48E4-9F0D-FEAC213DFFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACB82C8-30AC-48E4-9F0D-FEAC213DFFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACB82C8-30AC-48E4-9F0D-FEAC213DFFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE5611F-3C9A-482B-82AA-F7D82FFE3C97}
+	EndGlobalSection
+EndGlobal
